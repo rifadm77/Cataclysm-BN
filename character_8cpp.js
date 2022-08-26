@@ -1,7 +1,7 @@
 var character_8cpp =
 [
     [ "acc_clothing_warmth", "character_8cpp.html#ae11deea526b1f8389fa6a1b002bcc193", null ],
-    [ "apply_mut_encumbrance", "character_8cpp.html#acc65ed71b43e84ebed41fae4a566ff6b", null ],
+    [ "apply_mut_encumbrance", "character_8cpp.html#a5f07804986d7a43335dbd1ff98cf571b", null ],
     [ "armor_enchantment_adjust", "character_8cpp.html#aa98b9719e049fe2ae24ac3ad79b0c3d3", null ],
     [ "bonus_from_clothing", "character_8cpp.html#a1c5231c963e438d6f00d73f47f464ad5", null ],
     [ "calc_mutation_value", "character_8cpp.html#a5cbb3d5d062bae11ec68a7114d07d7c7", null ],
@@ -53,7 +53,7 @@ var character_8cpp =
     [ "get_speedydex_bonus", "character_8cpp.html#acd8074a2353e1244722bbbabb4f0c3cf", null ],
     [ "get_stat_name", "character_8cpp.html#a035c78e847a263690eaab59f16c23b88", null ],
     [ "item_armor_enchantment_adjust", "character_8cpp.html#a2a52160b53ff51da3991f3a6d6f20e8b", null ],
-    [ "layer_item", "character_8cpp.html#a7439f0b119fef109749469c3771d84e2", null ],
+    [ "layer_item", "character_8cpp.html#a6ef9222693ad91f337a76eb8faf70171", null ],
     [ "nv_range_from_eye_encumbrance", "character_8cpp.html#ac9e992a7dff11772e270108ad424e4ab", null ],
     [ "nv_range_from_per", "character_8cpp.html#a05a8ace4b281f390ac9ee3de19c61a78", null ],
     [ "threshold_for_nv_range", "character_8cpp.html#a8d88c9a764e41f78d403b0fb6976ef56", null ],
@@ -166,6 +166,7 @@ var character_8cpp =
     [ "effect_took_prozac", "character_8cpp.html#a09fec42ea1d19920f66b5a9afd8e7606", null ],
     [ "effect_took_xanax", "character_8cpp.html#ae37624c520e2e6b05529cf6870489bc3", null ],
     [ "effect_webbed", "character_8cpp.html#aa222d693ccc29efba86a3bb9f18add4e", null ],
+    [ "fault_bionic_nonsterile", "character_8cpp.html#a26ecdac9a64be27edf58e27505e8548b", null ],
     [ "flag_BIONIC_ARMOR_INTERFACE", "character_8cpp.html#ad32c41dfffb3b7258fa0359ad4b8d3cf", null ],
     [ "flag_CLIMATE_CONTROL", "character_8cpp.html#a1e1d04d4a03638b2a87c710300973f2e", null ],
     [ "flag_COLLAR", "character_8cpp.html#ad85214a8e38d9dd99d56d2884b9736ff", null ],
