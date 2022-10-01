@@ -1,5 +1,10 @@
 var NAVTREEINDEX103 =
 {
+"matrix__math_8h.html":[37,0,1,364],
+"matrix__math_8h.html#a265fa47d3ad812606c1121540385479a":[37,0,1,364,1],
+"matrix__math_8h.html#a5781868984a5e4e92482e304569509dd":[37,0,1,364,2],
+"matrix__math_8h.html#ac5ace50f490bf03f0f78776eba59417f":[37,0,1,364,3],
+"matrix__math_8h_source.html":[37,0,1,364],
 "mattack__actors_8cpp.html":[37,0,1,365],
 "mattack__actors_8cpp.html#a08ab6b755cf474393b8c8c3d0967b4d0":[37,0,1,365,10],
 "mattack__actors_8cpp.html#a0f3a25eb2b398fd705348436a034da00":[37,0,1,365,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX103 =
 "mission__companion_8cpp.html#ada7535a2b9d1f528adc1edf100e31c46":[37,0,1,378,1],
 "mission__companion_8cpp.html#adaec8ea46c8ba29a5f862832bc9f1cea":[37,0,1,378,23],
 "mission__companion_8cpp.html#ae3647a4e529ab0dd03484950fa2cba70":[37,0,1,378,5],
-"mission__companion_8cpp.html#ae7312e2b4429536329e3c807537e63fa":[37,0,1,378,12],
-"mission__companion_8cpp.html#aee6c93932498810b03a6418e3ba3438e":[37,0,1,378,13],
-"mission__companion_8cpp.html#af872d8363b3a2e1f799e6fadaf07ceae":[37,0,1,378,6],
-"mission__companion_8cpp_source.html":[37,0,1,378],
-"mission__companion_8h.html":[37,0,1,379],
-"mission__companion_8h.html#a06c7fbf05b3d5974cfa47046b239fddf":[37,0,1,379,29]
+"mission__companion_8cpp.html#ae7312e2b4429536329e3c807537e63fa":[37,0,1,378,12]
 };

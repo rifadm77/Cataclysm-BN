@@ -300,10 +300,10 @@ Variables</h2></td></tr>
 <div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="namespaceom__direction.html#a27cad92b0d05637eb934f1a7f3424e41">all</a>;</div>
 <div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>}</div>
 <div class="ttc" id="anamespaceanonymous__namespace_02effect_8cpp_03_html_a75793a94926b8584aca04f3fe489f7ec"><div class="ttname"><a href="namespaceanonymous__namespace_02effect_8cpp_03.html#a75793a94926b8584aca04f3fe489f7ec">anonymous_namespace{effect.cpp}::effect_types</a></div><div class="ttdeci">std::map&lt; efftype_id, effect_type &gt; effect_types</div><div class="ttdef"><b>Definition:</b> <a href="effect_8cpp_source.html#l00044">effect.cpp:44</a></div></div>
-<div class="ttc" id="anamespaceiexamine_html_ab9103bcb0e9cb4755b445e5395a0a62f"><div class="ttname"><a href="namespaceiexamine.html#ab9103bcb0e9cb4755b445e5395a0a62f">iexamine::transform</a></div><div class="ttdeci">void transform(player &amp;p, const tripoint &amp;pos)</div><div class="ttdoc">Transform the examined object into the object specified by its transforms_into property.</div><div class="ttdef"><b>Definition:</b> <a href="iexamine_8cpp_source.html#l01590">iexamine.cpp:1590</a></div></div>
+<div class="ttc" id="anamespaceiexamine_html_ab9103bcb0e9cb4755b445e5395a0a62f"><div class="ttname"><a href="namespaceiexamine.html#ab9103bcb0e9cb4755b445e5395a0a62f">iexamine::transform</a></div><div class="ttdeci">void transform(player &amp;p, const tripoint &amp;pos)</div><div class="ttdoc">Transform the examined object into the object specified by its transforms_into property.</div><div class="ttdef"><b>Definition:</b> <a href="iexamine_8cpp_source.html#l01639">iexamine.cpp:1639</a></div></div>
 <div class="ttc" id="anamespaceom__direction_html_a27cad92b0d05637eb934f1a7f3424e41"><div class="ttname"><a href="namespaceom__direction.html#a27cad92b0d05637eb934f1a7f3424e41">om_direction::all</a></div><div class="ttdeci">const std::array&lt; type, 4 &gt; all</div><div class="ttdoc">For the purposes of iteration.</div><div class="ttdef"><b>Definition:</b> <a href="om__direction_8h_source.html#l00026">om_direction.h:26</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="om__direction_8h_source.html#l00026">om_direction::all</a>, <a class="el" href="effect_8cpp_source.html#l00044">anonymous_namespace{effect.cpp}::effect_types</a>, and <a class="el" href="iexamine_8cpp_source.html#l01590">iexamine::transform()</a>.</p>
+<p class="reference">References <a class="el" href="om__direction_8h_source.html#l00026">om_direction::all</a>, <a class="el" href="effect_8cpp_source.html#l00044">anonymous_namespace{effect.cpp}::effect_types</a>, and <a class="el" href="iexamine_8cpp_source.html#l01639">iexamine::transform()</a>.</p>
 
 </div>
 </div>
@@ -450,8 +450,8 @@ Variables</h2></td></tr>
 <div class="line"><a id="l01384" name="l01384"></a><span class="lineno"> 1384</span>    }</div>
 <div class="line"><a id="l01385" name="l01385"></a><span class="lineno"> 1385</span> </div>
 <div class="line"><a id="l01386" name="l01386"></a><span class="lineno"> 1386</span>    <span class="comment">// TODO: Implement handling of reduced morale, remove this</span></div>
-<div class="line"><a id="l01387" name="l01387"></a><span class="lineno"> 1387</span>    <span class="keyword">static</span> <span class="keyword">const</span> std::vector&lt;const char *&gt; mod_types = {{</div>
-<div class="line"><a id="l01388" name="l01388"></a><span class="lineno"> 1388</span>            <span class="stringliteral">&quot;base_mods&quot;</span>, <span class="stringliteral">&quot;scaling_mods&quot;</span></div>
+<div class="line"><a id="l01387" name="l01387"></a><span class="lineno"> 1387</span>    <span class="keyword">static</span> <span class="keyword">const</span> std::vector&lt;std::string&gt; mod_types = {{</div>
+<div class="line"><a id="l01388" name="l01388"></a><span class="lineno"> 1388</span>            {<span class="stringliteral">&quot;base_mods&quot;</span>}, {<span class="stringliteral">&quot;scaling_mods&quot;</span>}</div>
 <div class="line"><a id="l01389" name="l01389"></a><span class="lineno"> 1389</span>        }</div>
 <div class="line"><a id="l01390" name="l01390"></a><span class="lineno"> 1390</span>    };</div>
 <div class="line"><a id="l01391" name="l01391"></a><span class="lineno"> 1391</span>    <span class="keywordflow">if</span>( has_morale_effect ) {</div>
@@ -1329,7 +1329,7 @@ Intelligence changes messages when smoking weed
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="effect_8cpp.html">effect.cpp</a></li>
-    <li class="footer">Generated on Fri Sep 23 2022 17:49:06 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Oct 1 2022 20:52:34 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
