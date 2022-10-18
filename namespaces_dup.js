@@ -573,9 +573,9 @@ var namespaces_dup =
     [ "gates", "namespacegates.html", [
       [ "check", "namespacegates.html#a3ef5351e05e4b2d492562205261db96c", null ],
       [ "load", "namespacegates.html#a0eeda5c9b391c2d30f63a1dad75b043b", null ],
-      [ "open_gate", "namespacegates.html#ae998ffa52a73418a8a0801c102648f75", null ],
-      [ "open_gate", "namespacegates.html#a21a6ac9535199473360da4ccbda76f22", null ],
-      [ "reset", "namespacegates.html#ac8730a42296c6b07c8effd83106ddb08", null ]
+      [ "reset", "namespacegates.html#ac8730a42296c6b07c8effd83106ddb08", null ],
+      [ "toggle_gate", "namespacegates.html#ac6c523200a835b37be9b28bf9fc539b2", null ],
+      [ "toggle_gate", "namespacegates.html#a84015d35b252bacce5c6ee9ae9f6fde2", null ]
     ] ],
     [ "iexamine", "namespaceiexamine.html", [
       [ "aggie_plant", "namespaceiexamine.html#a01429a76cc9d3d1563fb501ae6a1dd3a", null ],
@@ -1203,6 +1203,7 @@ var namespaces_dup =
       [ "add_leash", "namespacemonexamine.html#ac213a1f089bcc2602a6c6c9d58d1d7b4", null ],
       [ "attach_bag_to", "namespacemonexamine.html#a935d4c4eb310af58bb939713d5cd22c9", null ],
       [ "attach_or_remove_saddle", "namespacemonexamine.html#a4396430d7db63915584d98c8180ea646", null ],
+      [ "deactivate_pet", "namespacemonexamine.html#ad401ef970ed982d7b51fe916e02429b7", null ],
       [ "dump_items", "namespacemonexamine.html#a684505599f42f0f8c335365a2e0cd73c", null ],
       [ "give_items_to", "namespacemonexamine.html#a89f3eb85572610e64aa683902e43687e", null ],
       [ "insert_battery", "namespacemonexamine.html#ab136709e2d3d094e1935f557142f1f75", null ],

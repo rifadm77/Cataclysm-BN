@@ -1,5 +1,6 @@
 var NAVTREEINDEX87 =
 {
+"gamemode__tutorial_8h.html#a543ad4708a13f830fca96aa55b64d9eea4e5b915bc2fc063e16ac6e0e0ac8cf3c":[37,0,1,234,4,15],
 "gamemode__tutorial_8h.html#a543ad4708a13f830fca96aa55b64d9eea67992d2a66c8c90379e2cbe9b4ea4404":[37,0,1,234,4,34],
 "gamemode__tutorial_8h.html#a543ad4708a13f830fca96aa55b64d9eea6cd317fdd1143933f35c613956007353":[37,0,1,234,4,13],
 "gamemode__tutorial_8h.html#a543ad4708a13f830fca96aa55b64d9eea71307ef9574904bf65cab9eb0b624a4f":[37,0,1,234,4,22],
@@ -38,12 +39,12 @@ var NAVTREEINDEX87 =
 "gates_8cpp_source.html":[37,0,1,235],
 "gates_8h.html":[37,0,1,236],
 "gates_8h.html#a0eeda5c9b391c2d30f63a1dad75b043b":[37,0,1,236,3],
-"gates_8h.html#a21a6ac9535199473360da4ccbda76f22":[37,0,1,236,5],
 "gates_8h.html#a3ef5351e05e4b2d492562205261db96c":[37,0,1,236,1],
 "gates_8h.html#a5dd64a7f99b8c324cbb945ad7dc37702":[37,0,1,236,0],
-"gates_8h.html#ac8730a42296c6b07c8effd83106ddb08":[37,0,1,236,6],
+"gates_8h.html#a84015d35b252bacce5c6ee9ae9f6fde2":[37,0,1,236,6],
+"gates_8h.html#ac6c523200a835b37be9b28bf9fc539b2":[37,0,1,236,5],
+"gates_8h.html#ac8730a42296c6b07c8effd83106ddb08":[37,0,1,236,4],
 "gates_8h.html#acc8efe27aeed04f754930b76a29d0c2a":[37,0,1,236,2],
-"gates_8h.html#ae998ffa52a73418a8a0801c102648f75":[37,0,1,236,4],
 "gates_8h_source.html":[37,0,1,236],
 "generic__factory_8h.html":[37,0,1,237],
 "generic__factory_8h.html#a079efdb0a054d93f3d027084fa963268":[37,0,1,237,10],
@@ -74,8 +75,8 @@ var NAVTREEINDEX87 =
 "globals_b.html":[37,1,0,2],
 "globals_c.html":[37,1,0,3],
 "globals_d.html":[37,1,0,4],
-"globals_defs.html":[37,1,6,0],
 "globals_defs.html":[37,1,6],
+"globals_defs.html":[37,1,6,0],
 "globals_defs_a.html":[37,1,6,1],
 "globals_defs_b.html":[37,1,6,2],
 "globals_defs_c.html":[37,1,6,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX87 =
 "group__UI.html#gabc3e8da3d3b2f75e8c8418387e8efd7e":[34,1,0],
 "group__UI.html#gac72d8d73faae1d8bf39b1dcecd67be88":[34,1,19],
 "group__UI.html#gacbf8fb8cc6c4219afdffda6c687dce70":[34,1,13],
-"group__UI.html#gae32cbe298a4f1bc9416a1338473374c6":[34,1,16],
-"group__UI.html#gae86de5b2dad537d99dfe1364b842416c":[34,1,9]
+"group__UI.html#gae32cbe298a4f1bc9416a1338473374c6":[34,1,16]
 };
