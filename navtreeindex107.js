@@ -1,5 +1,17 @@
 var NAVTREEINDEX107 =
 {
+"monster_8cpp.html#adc9256a8239cdb71c406fc31369d80dc":[37,0,1,411,54],
+"monster_8cpp.html#ae326c5e4da7f23bc429d04d215dd7c9d":[37,0,1,411,17],
+"monster_8cpp.html#ae940cd81463820c5f0fc145179c7c386":[37,0,1,411,19],
+"monster_8cpp.html#af079f6d5681dabcbc1c4ee804c0ba556":[37,0,1,411,24],
+"monster_8cpp.html#af825514d87d2ddd622cdfab1842bbc61":[37,0,1,411,49],
+"monster_8cpp.html#afcfa82c36c0dc2d76cd19d622c2b6ab4":[37,0,1,411,25],
+"monster_8cpp.html#aff353fc96e65243e31eaee43bacf3e03":[37,0,1,411,42],
+"monster_8cpp_source.html":[37,0,1,411],
+"monster_8h.html":[37,0,1,412],
+"monster_8h.html#a84ab55bd738531d991f877a7650b7fd1":[37,0,1,412,4],
+"monster_8h.html#a84ab55bd738531d991f877a7650b7fd1a13d4d639667d468eab8c51243acc4802":[37,0,1,412,4,0],
+"monster_8h.html#a84ab55bd738531d991f877a7650b7fd1a38ef1c57a99bb9129742d1649235a1c1":[37,0,1,412,4,2],
 "monster_8h.html#a84ab55bd738531d991f877a7650b7fd1a5ec6d88e970730e71a4ee4d786a7a761":[37,0,1,412,4,3],
 "monster_8h.html#a84ab55bd738531d991f877a7650b7fd1a83cac1efd028387ff7fb9ced13f48f1d":[37,0,1,412,4,1],
 "monster_8h.html#aa13c8de924aae342f9bcb80fb3e7022a":[37,0,1,412,5],
@@ -237,17 +249,5 @@ var NAVTREEINDEX107 =
 "morale__types_8h.html#af15157a9392a78ab4c78246342e76840":[37,0,1,420,18],
 "morale__types_8h.html#af83555e86a1689eab3a636eaed283fe5":[37,0,1,420,24],
 "morale__types_8h.html#af932319933d612a6b8d308262dadf7b1":[37,0,1,420,47],
-"morale__types_8h.html#afbbb6c6de1923da5c3104eaa6d6ab52d":[37,0,1,420,42],
-"morale__types_8h_source.html":[37,0,1,420],
-"mtype_8cpp.html":[37,0,1,421],
-"mtype_8cpp.html#a1e1066050f4500f670c1f3a5fb9dcd39":[37,0,1,421,2],
-"mtype_8cpp.html#a389884541013992c89f655f844702f41":[37,0,1,421,7],
-"mtype_8cpp.html#a4566cde081e1712dd8772c70f53bf6c6":[37,0,1,421,0],
-"mtype_8cpp.html#a456cc8de98709c23729dd3ce813aa7f7":[37,0,1,421,1],
-"mtype_8cpp.html#a553ec0d369a038d8c61be2e13ab051be":[37,0,1,421,5],
-"mtype_8cpp.html#a626d405691f82d56bdc3fa6af2d18c4c":[37,0,1,421,3],
-"mtype_8cpp.html#a764d360a05daf0502c63bd825568ce48":[37,0,1,421,6],
-"mtype_8cpp.html#a94feb831aa23028fb219334c56a827be":[37,0,1,421,4],
-"mtype_8cpp.html#aff353fc96e65243e31eaee43bacf3e03":[37,0,1,421,8],
-"mtype_8cpp_source.html":[37,0,1,421]
+"morale__types_8h.html#afbbb6c6de1923da5c3104eaa6d6ab52d":[37,0,1,420,42]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX60 =
 {
+"classplayer__morale_1_1morale__point.html#a9122249feb7739f785fa7b4ab35dbb8e":[36,0,745,1,1],
+"classplayer__morale_1_1morale__point.html#a99e68a4b48ad3c60b49c93e0e72edc77":[36,0,745,1,18],
+"classplayer__morale_1_1morale__point.html#a9fea74c03c65593c8c94bb64bbb70611":[36,0,745,1,12],
+"classplayer__morale_1_1morale__point.html#ab454dabbae99a91652b1e0962ac4eeab":[36,0,745,1,22],
 "classplayer__morale_1_1morale__point.html#ab636bc6bcb57db62f22d95b8c171a38b":[36,0,745,1,17],
 "classplayer__morale_1_1morale__point.html#ab777c9c77b12098e64d09625e1f1f082":[36,0,745,1,8],
 "classplayer__morale_1_1morale__point.html#abf6d229f81bc75e89c7b53c90a9a6b5c":[36,0,745,1,10],
@@ -245,9 +249,5 @@ var NAVTREEINDEX60 =
 "classrecipe.html#ad5b12f4465e80e6a1b43760301c35224":[36,0,772,48],
 "classrecipe.html#ad5ca20850287651ea64cb1a69bd7fdfd":[36,0,772,56],
 "classrecipe.html#ad8db385a7afb5de439c132390110a0af":[36,0,772,2],
-"classrecipe.html#adc2cfd54294a39a4a66194f0e52b466c":[36,0,772,43],
-"classrecipe.html#ae553a7e929ae8776eb5a8c19422ec83b":[36,0,772,4],
-"classrecipe.html#ae5a93fffebc2f895a6bbc8fe8f9bdabc":[36,0,772,39],
-"classrecipe.html#aec9393730cae5e023b08a52cd3484cc1":[36,0,772,45],
-"classrecipe.html#aed1bf302d13802b4009d16dfaf9ade0d":[36,0,772,3]
+"classrecipe.html#adc2cfd54294a39a4a66194f0e52b466c":[36,0,772,43]
 };
