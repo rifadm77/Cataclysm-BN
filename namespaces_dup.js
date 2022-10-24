@@ -430,6 +430,7 @@ var namespaces_dup =
       [ "complex_conds", "namespacedialogue__data.html#a26e681c79153a7820fdeaa96e9223aa3", null ],
       [ "simple_string_conds", "namespacedialogue__data.html#a6fed24978753ef5c62bb51fd50f30071", null ]
     ] ],
+    [ "distraction_manager", "namespacedistraction__manager.html", "namespacedistraction__manager" ],
     [ "distribution_graph", "namespacedistribution__graph.html", "namespacedistribution__graph" ],
     [ "doors", "namespacedoors.html", [
       [ "close_door", "namespacedoors.html#acc8efe27aeed04f754930b76a29d0c2a", null ]
@@ -1381,6 +1382,7 @@ var namespaces_dup =
       [ "defaultsounddir", "namespacePATH__INFO.html#ab1b96ecc4661a605f4a04c4388e9fd41", null ],
       [ "defaulttilejson", "namespacePATH__INFO.html#ae4c0906500b222227e00bc34cc94252f", null ],
       [ "defaulttilepng", "namespacePATH__INFO.html#a0773f1e01a9fb190c2f1e385ad2892b1", null ],
+      [ "distraction", "namespacePATH__INFO.html#a48b13e0e7d09a341face3e7408cbc8c9", null ],
       [ "fontconfig", "namespacePATH__INFO.html#a80886f68f9d0351e3e43b93063337844", null ],
       [ "fontdir", "namespacePATH__INFO.html#a55c9560f392f8f4a0cd0dc03125978d8", null ],
       [ "gfxdir", "namespacePATH__INFO.html#a089dac91cab1329892ec2ccea9d897dd", null ],
