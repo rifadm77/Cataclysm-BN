@@ -86,6 +86,14 @@ var namespaces_dup =
     [ "anonymous_namespace{debug.cpp}", "namespaceanonymous__namespace_02debug_8cpp_03.html", [
       [ "ignored_messages", "namespaceanonymous__namespace_02debug_8cpp_03.html#aac5ec8bb66a16096a2fd9ae0e87fcdf6", null ]
     ] ],
+    [ "anonymous_namespace{diary_ui.cpp}", "namespaceanonymous__namespace_02diary__ui_8cpp_03.html", [
+      [ "draw_diary_border", "namespaceanonymous__namespace_02diary__ui_8cpp_03.html#a3598f2825ba29afbf6095658102fad6a", null ],
+      [ "print_list_scrollable", "namespaceanonymous__namespace_02diary__ui_8cpp_03.html#aa17d599fa720185e7f8e114bb5d956a6", null ],
+      [ "print_list_scrollable", "namespaceanonymous__namespace_02diary__ui_8cpp_03.html#a6f54bfdce622c97184f917f36e4887cc", null ],
+      [ "print_list_scrollable", "namespaceanonymous__namespace_02diary__ui_8cpp_03.html#a1b180c4ee1a5c9686d1b8550352aeb13", null ],
+      [ "print_list_scrollable", "namespaceanonymous__namespace_02diary__ui_8cpp_03.html#a1ff440bd0de20275e0a526e10e2e7c1f", null ],
+      [ "MAX_DAIRY_UI_WIDTH", "namespaceanonymous__namespace_02diary__ui_8cpp_03.html#a89704e9a29605ed7a423f422907ee24e", null ]
+    ] ],
     [ "anonymous_namespace{disease.cpp}", "namespaceanonymous__namespace_02disease_8cpp_03.html", [
       [ "disease_factory", "namespaceanonymous__namespace_02disease_8cpp_03.html#a75cb92ba312ed17a7aa44cdadee9f354", null ]
     ] ],
@@ -1588,7 +1596,7 @@ var namespaces_dup =
       [ "bash", "namespacespell__effect.html#a5190e06459a4d2190d8d029a4fba6d09", null ],
       [ "charm_monster", "namespacespell__effect.html#a23cac54dff54c06895ee6a486bdd91e8", null ],
       [ "cone_attack", "namespacespell__effect.html#a1046d781ac5cfb3381c95ce1d965f06b", null ],
-      [ "explosion", "namespacespell__effect.html#a7c2f005c1d34aeb869b6d6ffc5dacc5a", null ],
+      [ "explosion", "namespacespell__effect.html#a9f1b39574600d0523b1c049f7d7d69bd", null ],
       [ "flashbang", "namespacespell__effect.html#a025c386d19f6366b440c998b9d35a6af", null ],
       [ "line_attack", "namespacespell__effect.html#a60706ce2352423a49ebd4d43dacbd12f", null ],
       [ "map_area", "namespacespell__effect.html#a572acfb9ae05c3cdd9f2827512a7a2d4", null ],
