@@ -708,7 +708,7 @@ var searchData=
   ['build_5ftransparency_5fcache_705',['build_transparency_cache',['../classmap.html#a89da249cc934c0d0cae7d099e603c080',1,'map']]],
   ['build_5ftunnel_706',['build_tunnel',['../classovermap.html#af7a3d2aa06f03ca1f47e332df9ba4020',1,'overmap']]],
   ['build_5ftype_5fmap_707',['build_type_map',['../active__tile__data_8cpp.html#a678c8662df8c49de90bd4bded7702826',1,'active_tile_data.cpp']]],
-  ['build_5fvision_5ftransparency_5fcache_708',['build_vision_transparency_cache',['../classmap.html#af1f9afa3c36ade30dc57a18b7e3c4165',1,'map']]],
+  ['build_5fvision_5ftransparency_5fcache_708',['build_vision_transparency_cache',['../classmap.html#ad488945605715f241c9373052e0a0698',1,'map']]],
   ['building_5fbin_709',['building_bin',['../classbuilding__bin.html#a8644480607d498f04ad7277de2f1bd85',1,'building_bin::building_bin()'],['../classbuilding__bin.html',1,'building_bin']]],
   ['building_5fgen_5fpointer_710',['building_gen_pointer',['../mapgen_8h.html#a73687d35da888e19cd484c335a681dc6',1,'building_gen_pointer():&#160;mapgen.h'],['../mapgen__functions_8h.html#a73687d35da888e19cd484c335a681dc6',1,'building_gen_pointer():&#160;mapgen_functions.h']]],
   ['building_5ftype_711',['building_type',['../structanonymous__namespace_02recipe__groups_8cpp_03_1_1recipe__group__data.html#a8a5e43ea4c8be497ab7317f9c4a54cba',1,'anonymous_namespace{recipe_groups.cpp}::recipe_group_data']]],
