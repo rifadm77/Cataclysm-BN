@@ -1,5 +1,9 @@
 var NAVTREEINDEX145 =
 {
+"structenum__traits_3_01computer__action_01_4.html#ac4d419f753c9d84064eb01f239844f4d":[36,0,266,0],
+"structenum__traits_3_01computer__failure__type_01_4.html":[36,0,267],
+"structenum__traits_3_01computer__failure__type_01_4.html#a4b4e82bff4959e9c0109ec4883776f49":[36,0,267,0],
+"structenum__traits_3_01condition__type_01_4.html":[36,0,268],
 "structenum__traits_3_01condition__type_01_4.html#a78c0bcbba1514d2578eb2691a383d7e9":[36,0,268,0],
 "structenum__traits_3_01description__affix_01_4.html":[36,0,270],
 "structenum__traits_3_01description__affix_01_4.html#a719badc668d6a8d494691795f460a371":[36,0,270,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX145 =
 "structexplosion__handler_1_1queued__explosion.html#a6d11f790c8ea33b29a74f80dfe88459b":[36,0,24,1,0],
 "structexplosion__handler_1_1queued__explosion.html#a88b8f9fb1519b3e8f8a8bdfd9c654981":[35,0,106,2,2],
 "structexplosion__handler_1_1queued__explosion.html#a88b8f9fb1519b3e8f8a8bdfd9c654981":[36,0,24,1,2],
-"structexplosion__handler_1_1queued__explosion.html#af289e1457f8cb11635569bf3a8e1405a":[36,0,24,1,8],
-"structexplosion__handler_1_1queued__explosion.html#af289e1457f8cb11635569bf3a8e1405a":[35,0,106,2,8],
-"structexplosion__handler_1_1queued__explosion.html#afd8ffbc8b33f0cb6d347ed5e8393dfe5":[35,0,106,2,3],
-"structexplosion__handler_1_1queued__explosion.html#afd8ffbc8b33f0cb6d347ed5e8393dfe5":[36,0,24,1,3],
-"structexplosion__tile.html":[36,0,327]
+"structexplosion__handler_1_1queued__explosion.html#af289e1457f8cb11635569bf3a8e1405a":[36,0,24,1,8]
 };
