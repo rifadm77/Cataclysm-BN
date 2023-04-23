@@ -1,5 +1,9 @@
 var NAVTREEINDEX153 =
 {
+"structnpc__companion__mission.html#aae4b1a9420e9b17c71c97a15ab416fdb":[36,0,688,3],
+"structnpc__companion__mission.html#ac8b68a12652c28648be8e1f9de6703fe":[36,0,688,0],
+"structnpc__dist__to__player.html":[36,0,689],
+"structnpc__dist__to__player.html#a5f5662531571cef17a6f81162f88154e":[36,0,689,0],
 "structnpc__dist__to__player.html#aa1bb8b790c19ea555874777b7b4c03e6":[36,0,689,2],
 "structnpc__dist__to__player.html#adec94d599f134c5173b1e414af7b6a6f":[36,0,689,1],
 "structnpc__favor.html":[36,0,690],
@@ -245,9 +249,5 @@ var NAVTREEINDEX153 =
 "structovermap__lake__settings.html#a7645168dff87b72ed0f06b070a38d6e7":[36,0,720,5],
 "structovermap__lake__settings.html#a7dc8a0baf7d6adbe982f571e5e607763":[36,0,720,1],
 "structovermap__lake__settings.html#a83e76cd2626ad5e96893d654c9445be7":[36,0,720,7],
-"structovermap__lake__settings.html#ab3abf954c043a69414a873a958828b7f":[36,0,720,0],
-"structovermap__lake__settings.html#ad7efde061dc78fee00d46620485a2bfb":[36,0,720,2],
-"structovermap__location.html":[36,0,722],
-"structovermap__location.html#a69e9d21dec0274326f5755a6f9978839":[36,0,722,4],
-"structovermap__location.html#a8eb07835134fcba1980a3d3b7155631f":[36,0,722,0]
+"structovermap__lake__settings.html#ab3abf954c043a69414a873a958828b7f":[36,0,720,0]
 };

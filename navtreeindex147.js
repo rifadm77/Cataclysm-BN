@@ -1,5 +1,9 @@
 var NAVTREEINDEX147 =
 {
+"structfurn__t.html#a64405e1be66b7a325d8d870ffe5b4e9c":[36,0,373,0],
+"structfurn__t.html#a72fb416c3c7dba15192fe0064bdf6da6":[36,0,373,3],
+"structfurn__t.html#a752f2ab848c34194d2e3ace0b937172a":[36,0,373,14],
+"structfurn__t.html#a7af0de39ede36d0663d98f2f30b8ef34":[36,0,373,15],
 "structfurn__t.html#a7ef46ed5fb8a03bb1487754eeb5fb7b7":[36,0,373,6],
 "structfurn__t.html#a8434cb138ac5bbfc96f43eb89f8f192e":[36,0,373,21],
 "structfurn__t.html#a8e723a8fe582a5820731d9145010e266":[36,0,373,19],
@@ -245,9 +249,5 @@ var NAVTREEINDEX147 =
 "structislot__book_1_1recipe__with__description__t.html#aef4536c534e6eb32a5077303e57bbb31":[36,0,453,0,2],
 "structislot__brewable.html":[36,0,454],
 "structislot__brewable.html#a2b2829761162d5779c27729715db2be9":[36,0,454,1],
-"structislot__brewable.html#a38af7f6a2e9e235c3ef3ed323a04d15d":[36,0,454,0],
-"structislot__comestible.html":[36,0,455],
-"structislot__comestible.html#a05bbe585d97a715412285a5760538c3b":[36,0,455,22],
-"structislot__comestible.html#a16361ca226b5a14a285f37c2bf42bbcd":[36,0,455,17],
-"structislot__comestible.html#a1c8377aa26060ebc8c5a1c7c17567cef":[36,0,455,4]
+"structislot__brewable.html#a38af7f6a2e9e235c3ef3ed323a04d15d":[36,0,454,0]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX113 =
 {
+"namespacebase__camps.html#a11becc5688aac40a12f2bc2e33d605c1":[35,0,70,7],
+"namespacebase__camps.html#a28832cf25e9985baab0a6cc9ac1323e2":[35,0,70,15],
+"namespacebase__camps.html#a33f7b3ee160c6971b07b5eb8416043b5":[35,0,70,6],
+"namespacebase__camps.html#a37484bd6058ac21028411c509951a457":[35,0,70,3],
 "namespacebase__camps.html#a514cbffdef2185c4d8b777f5feec390e":[35,0,70,10],
 "namespacebase__camps.html#a64d9c75a4dc27d18e1c8292e27946b28":[35,0,70,5],
 "namespacebase__camps.html#a7355c36e3472cb0ef0668630f341773f":[35,0,70,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX113 =
 "namespacecharacter__weight__category.html":[35,0,84],
 "namespacecharacter__weight__category.html#a4796dc02b0d31bbc649f0d96a93fd600":[35,0,84,2],
 "namespacecharacter__weight__category.html#a75b0c4b24e523cce5ca6d4699370c985":[35,0,84,6],
-"namespacecharacter__weight__category.html#a8be790615c5a48bdf4fb02fd551f8a17":[35,0,84,1],
-"namespacecharacter__weight__category.html#a94a763d34daa1acd627b67cf6f7e6aaa":[35,0,84,3],
-"namespacecharacter__weight__category.html#a9c7c7934ca11833d32605b6af00f4572":[35,0,84,4],
-"namespacecharacter__weight__category.html#aa0f298c7e2726e5eddd1879b7288b748":[35,0,84,5],
-"namespacecharacter__weight__category.html#ae41f48d3a0de12bbab86abc5d741f978":[35,0,84,0]
+"namespacecharacter__weight__category.html#a8be790615c5a48bdf4fb02fd551f8a17":[35,0,84,1]
 };
