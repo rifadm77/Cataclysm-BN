@@ -1,5 +1,14 @@
 var NAVTREEINDEX113 =
 {
+"namespaceanonymous__namespace_02animation_8cpp_03.html#a9d3fbd2d49b9955d5e302a03994eaacd":[35,0,10,16],
+"namespaceanonymous__namespace_02animation_8cpp_03.html#ac07d7350591e9095b0d65a4229b46d2b":[35,0,10,4],
+"namespaceanonymous__namespace_02animation_8cpp_03.html#ac2f6a87c38cca440d81f918250de183a":[35,0,10,8],
+"namespaceanonymous__namespace_02animation_8cpp_03.html#ac782629e3afab2499c6128a603239820":[35,0,10,5],
+"namespaceanonymous__namespace_02animation_8cpp_03.html#ac82c57522200ee34145b4d5598d87157":[35,0,10,17],
+"namespaceanonymous__namespace_02animation_8cpp_03.html#ae4475da76d1c26e5b891f4b57277b598":[35,0,10,21],
+"namespaceanonymous__namespace_02armor__layers_8cpp_03.html":[35,0,11],
+"namespaceanonymous__namespace_02armor__layers_8cpp_03.html#a04197117c5cee2efa1b9d7db594b4b57":[35,0,11,2],
+"namespaceanonymous__namespace_02armor__layers_8cpp_03.html#a2e94b6058062109e294a70310b442785":[35,0,11,7],
 "namespaceanonymous__namespace_02armor__layers_8cpp_03.html#a693ca1203a93c5063785654e4299b0f7":[35,0,11,6],
 "namespaceanonymous__namespace_02armor__layers_8cpp_03.html#a6cc57fcc1de2dcac9e3c536b68675e68":[35,0,11,5],
 "namespaceanonymous__namespace_02armor__layers_8cpp_03.html#a85afec099b473eb41345b4fc409f337a":[35,0,11,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX113 =
 "namespaceavatar__funcs.html#abca10e5194d32b19cc88d6ffd07c56d6":[35,0,72,13],
 "namespaceavatar__funcs.html#ac14b6f126d2c2b3e9a34e3ae6f99827f":[35,0,72,2],
 "namespaceavatar__funcs.html#ac216d229bfa88148e0e4afa8bdbe9ffc":[35,0,72,9],
-"namespaceavatar__funcs.html#ae3e48352faacf76db0e461d8d0e697ea":[35,0,72,7],
-"namespacebase__camps.html":[35,0,73],
-"namespacebase__camps.html#a04fa69b1c0952a34dc4a7d26b3f9f786":[35,0,73,12],
-"namespacebase__camps.html#a11becc5688aac40a12f2bc2e33d605c1":[35,0,73,7],
-"namespacebase__camps.html#a28832cf25e9985baab0a6cc9ac1323e2":[35,0,73,15],
-"namespacebase__camps.html#a33f7b3ee160c6971b07b5eb8416043b5":[35,0,73,6],
-"namespacebase__camps.html#a37484bd6058ac21028411c509951a457":[35,0,73,3],
-"namespacebase__camps.html#a514cbffdef2185c4d8b777f5feec390e":[35,0,73,10],
-"namespacebase__camps.html#a64d9c75a4dc27d18e1c8292e27946b28":[35,0,73,5],
-"namespacebase__camps.html#a7355c36e3472cb0ef0668630f341773f":[35,0,73,2]
+"namespaceavatar__funcs.html#ae3e48352faacf76db0e461d8d0e697ea":[35,0,72,7]
 };

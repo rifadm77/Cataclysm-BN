@@ -1,5 +1,14 @@
 var NAVTREEINDEX116 =
 {
+"namespacedetail.html#a18dcc9f4332ab0f3c96b6d5dc17507f4":[35,0,99,210],
+"namespacedetail.html#a194a8dad9dd2c1ee35aaacf7472df3b8":[35,0,99,322],
+"namespacedetail.html#a195ada4a0982dc9817b6386c9efa9f8d":[35,0,99,329],
+"namespacedetail.html#a19fe0523a95f2e571745ce3acf05f9b9":[35,0,99,201],
+"namespacedetail.html#a1a780acb0dc2858109fcb85cc7ec6e06":[35,0,99,207],
+"namespacedetail.html#a1c8c2218e4c822aa8f743fb9c573717f":[35,0,99,320],
+"namespacedetail.html#a1ce5844a002c0c15253b91f7ffae5729":[35,0,99,269],
+"namespacedetail.html#a1d61b8b681bfea9c6949651be0f34c3c":[35,0,99,317],
+"namespacedetail.html#a1e83f1deb8d4267918ea078c1fa8ed0d":[35,0,99,308],
 "namespacedetail.html#a204148e9216ddc0ae7fdbea1c42e457a":[35,0,99,123],
 "namespacedetail.html#a208b54c1c61a9bce9df4531a657a0c64":[35,0,99,141],
 "namespacedetail.html#a228d20c6f5177f877c9a3178a55c8732":[35,0,99,295],
@@ -240,14 +249,5 @@ var NAVTREEINDEX116 =
 "namespacedetail_1_1digits.html#aad69d2373aa047bdd9e81494bf3da5aeac7878d891005c72a71703f35dbb2be15":[35,0,99,0,0,1],
 "namespacedetail_1_1dragonbox.html":[35,0,99,1],
 "namespacedetail_1_1dragonbox.html#a0bf49114abef82fbaac1b6b5abfab666":[35,0,99,1,27],
-"namespacedetail_1_1dragonbox.html#a12286781195aa157eabfe1437ee271fa":[35,0,99,1,25],
-"namespacedetail_1_1dragonbox.html#a233f206f3f73d9c426e5fb0c69df38c1":[35,0,99,1,15],
-"namespacedetail_1_1dragonbox.html#a2a0d2f83211befbd1925abdc65e5a2c8":[35,0,99,1,11],
-"namespacedetail_1_1dragonbox.html#a39bbe321b3f84632f470ba10ed90bc61":[35,0,99,1,9],
-"namespacedetail_1_1dragonbox.html#a434d21d93c2448552d90eb3381f301f1":[35,0,99,1,16],
-"namespacedetail_1_1dragonbox.html#a4bf57aeb5f229f5d6cd53bea7ff02901":[35,0,99,1,26],
-"namespacedetail_1_1dragonbox.html#a502a2e575ece0ceee230a0b0d54ee2b3":[35,0,99,1,8],
-"namespacedetail_1_1dragonbox.html#a56662db442d89210d940e781ffcfcbd8":[35,0,99,1,7],
-"namespacedetail_1_1dragonbox.html#a6f66bb2aff1a602da021a94d95f68b7d":[35,0,99,1,24],
-"namespacedetail_1_1dragonbox.html#a7410f369dbec43e4a12b044918aa94c3":[35,0,99,1,23]
+"namespacedetail_1_1dragonbox.html#a12286781195aa157eabfe1437ee271fa":[35,0,99,1,25]
 };
