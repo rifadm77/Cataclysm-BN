@@ -1497,7 +1497,7 @@ Strength modifies dig rate
 <div class="line"><a id="l02621" name="l02621"></a><span class="lineno"> 2621</span>    <span class="comment">// We also must tone down the yield of dirt to avoid potential problems,</span></div>
 <div class="line"><a id="l02622" name="l02622"></a><span class="lineno"> 2622</span>    <span class="comment">// the old math was generating more than the tile volume limit.</span></div>
 <div class="line"><a id="l02623" name="l02623"></a><span class="lineno"> 2623</span>    <span class="comment">//</span></div>
-<div class="line"><a id="l02624" name="l02624"></a><span class="lineno"> 2624</span>    <span class="comment">// So to keep it simple, 50 liters for shallow pits, 100 for deep pit. We&#39;re basically</span></div>
+<div class="line"><a id="l02624" name="l02624"></a><span class="lineno"> 2624</span>    <span class="comment">// So to keep it simple, 200 liters for shallow pits, 400 for deep pit. We&#39;re basically</span></div>
 <div class="line"><a id="l02625" name="l02625"></a><span class="lineno"> 2625</span>    <span class="comment">// assuming that the first step is about one-third of the total work.</span></div>
 <div class="line"><a id="l02626" name="l02626"></a><span class="lineno"> 2626</span> </div>
 <div class="line"><a id="l02627" name="l02627"></a><span class="lineno"> 2627</span>    <span class="keyword">constexpr</span> <span class="keywordtype">int</span> deep_pit_time = 120;</div>
@@ -1523,7 +1523,7 @@ Strength modifies dig rate
 <div class="line"><a id="l02647" name="l02647"></a><span class="lineno"> 2647</span>        result_terrain = deep ? <a class="code hl_typedef" href="type__id_8h.html#a52570fdf9996c7b72d444f8020a741e8">ter_id</a>( <span class="stringliteral">&quot;t_pit&quot;</span> ) : <a class="code hl_class" href="classint__id.html">ter_id</a>( <span class="stringliteral">&quot;t_pit_shallow&quot;</span> );</div>
 <div class="line"><a id="l02648" name="l02648"></a><span class="lineno"> 2648</span>    }</div>
 <div class="line"><a id="l02649" name="l02649"></a><span class="lineno"> 2649</span> </div>
-<div class="line"><a id="l02650" name="l02650"></a><span class="lineno"> 2650</span>    <span class="keywordflow">return</span> { moves, <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>( dig_minutes / 60 ), <span class="stringliteral">&quot;digging_soil_loam_50L&quot;</span>, result_terrain };</div>
+<div class="line"><a id="l02650" name="l02650"></a><span class="lineno"> 2650</span>    <span class="keywordflow">return</span> { moves, <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>( dig_minutes / 15 ), <span class="stringliteral">&quot;digging_soil_loam_50L&quot;</span>, result_terrain };</div>
 <div class="line"><a id="l02651" name="l02651"></a><span class="lineno"> 2651</span>}</div>
 <div class="ttc" id="aclassCharacter_html_a26369a0a81eef76cfe75214d22ed32b4"><div class="ttname"><a href="classCharacter.html#a26369a0a81eef76cfe75214d22ed32b4">Character::str_cur</a></div><div class="ttdeci">int str_cur</div><div class="ttdef"><b>Definition:</b> <a href="character_8h_source.html#l00264">character.h:264</a></div></div>
 <div class="ttc" id="aclassitem_html_a4055882f85be37628b8ac9fe1e9e6964"><div class="ttname"><a href="classitem.html#a4055882f85be37628b8ac9fe1e9e6964">item::get_quality</a></div><div class="ttdeci">int get_quality(const quality_id &amp;id) const</div><div class="ttdef"><b>Definition:</b> <a href="item_8cpp_source.html#l05408">item.cpp:5408</a></div></div>
@@ -11301,7 +11301,7 @@ Intelligence slightly reduces sleep duration when eating mycus+goo Intelligence 
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="iuse_8cpp.html">iuse.cpp</a></li>
-    <li class="footer">Generated on Sat Sep 16 2023 19:53:13 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sat Sep 16 2023 23:03:29 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
