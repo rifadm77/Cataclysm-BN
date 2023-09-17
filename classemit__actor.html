@@ -398,20 +398,20 @@ Additional Inherited Members</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="iuse__actor_8cpp_source.html#l04229">4229</a> of file <a class="el" href="iuse__actor_8cpp_source.html">iuse_actor.cpp</a>.</p>
 <div class="fragment"><div class="line"><a id="l04230" name="l04230"></a><span class="lineno"> 4230</span>{</div>
-<div class="line"><a id="l04231" name="l04231"></a><span class="lineno"> 4231</span>    <a class="code hl_class" href="classmap.html">map</a> &amp;here = <a class="code hl_function" href="map_8cpp.html#acb0b34be6e497bdd2f9f40ae6929d562">get_map</a>();</div>
+<div class="line"><a id="l04231" name="l04231"></a><span class="lineno"> 4231</span>    <a class="code hl_class" href="classmap.html">map</a> &amp;<a class="code hl_function" href="namespaceanonymous__namespace_02iexamine__elevator_8cpp_03_1_1elevator.html#addc3094d01177bce41a478ace4feeed4">here</a> = <a class="code hl_function" href="map_8cpp.html#acb0b34be6e497bdd2f9f40ae6929d562">get_map</a>();</div>
 <div class="line"><a id="l04232" name="l04232"></a><span class="lineno"> 4232</span>    <span class="keyword">const</span> <span class="keywordtype">float</span> scaling = <a class="code hl_variable" href="classemit__actor.html#ade1079362e991a186bd32f5e0eccc6ab">scale_qty</a> ? it.<a class="code hl_variable" href="classitem.html#a6bfb92ab5d41e0eb3a1da160fac71b0e">charges</a> : 1;</div>
 <div class="line"><a id="l04233" name="l04233"></a><span class="lineno"> 4233</span>    <span class="keywordflow">for</span>( <span class="keyword">const</span> <span class="keyword">auto</span> &amp;e : <a class="code hl_variable" href="classemit__actor.html#a47db61017c617916f6c6ee41a7221a3a">emits</a> ) {</div>
-<div class="line"><a id="l04234" name="l04234"></a><span class="lineno"> 4234</span>        here.<a class="code hl_function" href="classmap.html#a150f1b826e0e2722ccf76dbdac136ffd">emit_field</a>( pos, e, scaling );</div>
+<div class="line"><a id="l04234" name="l04234"></a><span class="lineno"> 4234</span>        <a class="code hl_function" href="namespaceanonymous__namespace_02iexamine__elevator_8cpp_03_1_1elevator.html#addc3094d01177bce41a478ace4feeed4">here</a>.emit_field( pos, e, scaling );</div>
 <div class="line"><a id="l04235" name="l04235"></a><span class="lineno"> 4235</span>    }</div>
 <div class="line"><a id="l04236" name="l04236"></a><span class="lineno"> 4236</span> </div>
 <div class="line"><a id="l04237" name="l04237"></a><span class="lineno"> 4237</span>    <span class="keywordflow">return</span> 1;</div>
 <div class="line"><a id="l04238" name="l04238"></a><span class="lineno"> 4238</span>}</div>
 <div class="ttc" id="aclassitem_html_a6bfb92ab5d41e0eb3a1da160fac71b0e"><div class="ttname"><a href="classitem.html#a6bfb92ab5d41e0eb3a1da160fac71b0e">item::charges</a></div><div class="ttdeci">int charges</div><div class="ttdef"><b>Definition:</b> <a href="item_8h_source.html#l02209">item.h:2209</a></div></div>
 <div class="ttc" id="aclassmap_html"><div class="ttname"><a href="classmap.html">map</a></div><div class="ttdoc">Manage and cache data about a part of the map.</div><div class="ttdef"><b>Definition:</b> <a href="map_8h_source.html#l00383">map.h:384</a></div></div>
-<div class="ttc" id="aclassmap_html_a150f1b826e0e2722ccf76dbdac136ffd"><div class="ttname"><a href="classmap.html#a150f1b826e0e2722ccf76dbdac136ffd">map::emit_field</a></div><div class="ttdeci">void emit_field(const tripoint &amp;pos, const emit_id &amp;src, float mul=1.0f)</div><div class="ttdoc">Runs one cycle of emission src which may result in propagation of fields.</div><div class="ttdef"><b>Definition:</b> <a href="map__field_8cpp_source.html#l01927">map_field.cpp:1927</a></div></div>
 <div class="ttc" id="amap_8cpp_html_acb0b34be6e497bdd2f9f40ae6929d562"><div class="ttname"><a href="map_8cpp.html#acb0b34be6e497bdd2f9f40ae6929d562">get_map</a></div><div class="ttdeci">map &amp; get_map()</div><div class="ttdef"><b>Definition:</b> <a href="map_8cpp_source.html#l00147">map.cpp:147</a></div></div>
+<div class="ttc" id="anamespaceanonymous__namespace_02iexamine__elevator_8cpp_03_1_1elevator_html_addc3094d01177bce41a478ace4feeed4"><div class="ttname"><a href="namespaceanonymous__namespace_02iexamine__elevator_8cpp_03_1_1elevator.html#addc3094d01177bce41a478ace4feeed4">anonymous_namespace{iexamine_elevator.cpp}::elevator::here</a></div><div class="ttdeci">auto here(const Character &amp;you) -&gt; elevator::tiles</div><div class="ttdef"><b>Definition:</b> <a href="iexamine__elevator_8cpp_source.html#l00033">iexamine_elevator.cpp:33</a></div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="item_8h_source.html#l02209">item::charges</a>, <a class="el" href="map__field_8cpp_source.html#l01927">map::emit_field()</a>, <a class="el" href="map_8cpp_source.html#l00147">get_map()</a>, and <a class="el" href="character_8cpp_source.html#l00601">Character::pos()</a>.</p>
+<p class="reference">References <a class="el" href="item_8h_source.html#l02209">item::charges</a>, <a class="el" href="map_8cpp_source.html#l00147">get_map()</a>, <a class="el" href="iexamine__elevator_8cpp_source.html#l00033">anonymous_namespace{iexamine_elevator.cpp}::elevator::here()</a>, and <a class="el" href="character_8cpp_source.html#l00601">Character::pos()</a>.</p>
 
 </div>
 </div>
@@ -460,7 +460,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classemit__actor.html">emit_actor</a></li>
-    <li class="footer">Generated on Sat Sep 16 2023 23:03:43 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
+    <li class="footer">Generated on Sun Sep 17 2023 02:19:03 for Cataclysm BN by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.2 </li>
   </ul>
 </div>
 </body>
