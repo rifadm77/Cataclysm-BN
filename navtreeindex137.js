@@ -245,8 +245,8 @@ var NAVTREEINDEX137 =
 "structammo__effect.html#ae1b673802fa8e5ff0f54961e3e009fe8":[36,0,71,7],
 "structammo__effect.html#aea6af8e496e5b4a685acd7c57bf1cf3b":[36,0,71,20],
 "structammo__effect.html#aebb5a07338a39aa4312cf035a148e273":[36,0,71,21],
-"structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html":[36,0,2,0],
 "structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html":[35,0,11,0],
+"structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html":[36,0,2,0],
 "structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#a58c78612fc3713ef690224e25653b44c":[35,0,11,0,0],
 "structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#a58c78612fc3713ef690224e25653b44c":[36,0,2,0,0],
 "structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#a91b8d2b7660363c5fc9342a7f523acfc":[35,0,11,0,2]

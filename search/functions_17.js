@@ -81,7 +81,7 @@ var searchData=
   ['werase_78',['werase',['../namespacecatacurses.html#ace2ce3990cb812fb83adf6e4ea1f9e8e',1,'catacurses']]],
   ['west_79',['west',['../classmapgendata.html#a642e1f88a375fbace75d91cdfc1ad8b2',1,'mapgendata']]],
   ['wet_5fplayer_80',['wet_player',['../group__Weather.html#ga65f6fab727709c98cc9959f01ecac53b',1,'weather_effect']]],
-  ['wheel_5farea_81',['wheel_area',['../classvehicle.html#ab738fb6279eb3c198c96dfc2ff1207ff',1,'vehicle::wheel_area()'],['../classitem.html#a1b9abb87d3a9cb6dfc4499a9066ecc44',1,'item::wheel_area()'],['../classvpart__info.html#ad1320b24113b8ded48325494a3ad6d89',1,'vpart_info::wheel_area()'],['../structvehicle__part.html#a7c9609ecf75f0839401351558a6b5b83',1,'vehicle_part::wheel_area() const']]],
+  ['wheel_5farea_81',['wheel_area',['../structvehicle__part.html#a7c9609ecf75f0839401351558a6b5b83',1,'vehicle_part::wheel_area()'],['../classitem.html#a1b9abb87d3a9cb6dfc4499a9066ecc44',1,'item::wheel_area()'],['../classvpart__info.html#ad1320b24113b8ded48325494a3ad6d89',1,'vpart_info::wheel_area()'],['../classvehicle.html#ab738fb6279eb3c198c96dfc2ff1207ff',1,'vehicle::wheel_area()']]],
   ['wheel_5fdiameter_82',['wheel_diameter',['../structvehicle__part.html#a3cae396eb7769f9a4e489c9f25a9d9b5',1,'vehicle_part']]],
   ['wheel_5for_5frating_83',['wheel_or_rating',['../classvpart__info.html#aa6109e11c1a0f7316d57d876466eb20a',1,'vpart_info']]],
   ['wheel_5frolling_5fresistance_84',['wheel_rolling_resistance',['../classvpart__info.html#aaaed9fa6f65e54a874d1171a55889c66',1,'vpart_info']]],

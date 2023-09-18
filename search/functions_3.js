@@ -135,7 +135,7 @@ var searchData=
   ['can_5fput_5fitems_5fter_5ffurn_132',['can_put_items_ter_furn',['../classmap.html#aa750f5e2039ddff8a1b2d98e89f184e1',1,'map::can_put_items_ter_furn(point p) const'],['../classmap.html#a3014d235b1298cadddb4c412d133ae6b',1,'map::can_put_items_ter_furn(const tripoint &amp;p) const']]],
   ['can_5freach_5fto_133',['can_reach_to',['../classmonster.html#a3971d4421cdc9f956213c9aef2ff9ae3',1,'monster']]],
   ['can_5fread_134',['can_read',['../classnpc.html#a891cd4039406936367f9f2bb09339ef0',1,'npc']]],
-  ['can_5freload_135',['can_reload',['../classturret__data.html#a022fc6dcc3b43aa8b2e1d6445f5c664a',1,'turret_data::can_reload()'],['../classCharacter.html#a5fb8820d11de3088b8ebe4157920e3cb',1,'Character::can_reload()'],['../structvehicle__part.html#a15dc2fb8faf2047cec28927c97313d59',1,'vehicle_part::can_reload()']]],
+  ['can_5freload_135',['can_reload',['../structvehicle__part.html#a15dc2fb8faf2047cec28927c97313d59',1,'vehicle_part::can_reload()'],['../classCharacter.html#a5fb8820d11de3088b8ebe4157920e3cb',1,'Character::can_reload()'],['../classturret__data.html#a022fc6dcc3b43aa8b2e1d6445f5c664a',1,'turret_data::can_reload()']]],
   ['can_5freload_5fcurrent_136',['can_reload_current',['../classnpc.html#a1730187ef8f8a6123602a9a8101985ce',1,'npc']]],
   ['can_5freload_5fitem_5for_5fmods_137',['can_reload_item_or_mods',['../avatar__action_8cpp.html#ab8c230f51e83af172fcf4d4976b93f57',1,'avatar_action.cpp']]],
   ['can_5freload_5fwith_138',['can_reload_with',['../classitem.html#ace13716223c28fcc8d8ad3de3b0469a5',1,'item::can_reload_with(const itype_id &amp;ammo) const'],['../classitem.html#a64f0ee7f8a0f5894a6e43e3b5becafb1',1,'item::can_reload_with(const ammotype &amp;ammo) const']]],

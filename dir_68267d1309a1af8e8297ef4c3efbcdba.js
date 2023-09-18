@@ -713,6 +713,7 @@ var dir_68267d1309a1af8e8297ef4c3efbcdba =
     [ "vehicle_move.cpp", "vehicle__move_8cpp.html", "vehicle__move_8cpp" ],
     [ "vehicle_move.h", "vehicle__move_8h.html", "vehicle__move_8h" ],
     [ "vehicle_part.cpp", "vehicle__part_8cpp.html", "vehicle__part_8cpp" ],
+    [ "vehicle_part.h", "vehicle__part_8h.html", "vehicle__part_8h" ],
     [ "vehicle_selector.cpp", "vehicle__selector_8cpp.html", null ],
     [ "vehicle_selector.h", "vehicle__selector_8h.html", "vehicle__selector_8h" ],
     [ "vehicle_use.cpp", "vehicle__use_8cpp.html", "vehicle__use_8cpp" ],

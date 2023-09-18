@@ -23,7 +23,7 @@ var searchData=
   ['veh_5fcached_5fparts_20',['veh_cached_parts',['../structlevel__cache.html#add0cbb5f55e168b6555aebc425bab1c6',1,'level_cache']]],
   ['veh_5fexists_5fat_21',['veh_exists_at',['../structlevel__cache.html#abc05173a201b92434aa76b9548e8c5db',1,'level_cache']]],
   ['veh_5fin_5factive_5frange_22',['veh_in_active_range',['../structlevel__cache.html#a89601d2fa12cacb02a3c347a11c63162',1,'level_cache']]],
-  ['vehicle_23',['vehicle',['../structvehicle__part.html#a15b3929f28a099a00d503643afe549ea',1,'vehicle_part::vehicle()'],['../classturret__data.html#ad45c29971a766e4b1066fc36ee4c85de',1,'turret_data::vehicle()'],['../classVehicleFunction__json.html#a994d8bfaf08a5b5f43c6f477b1e68fe1',1,'VehicleFunction_json::vehicle()']]],
+  ['vehicle_23',['vehicle',['../classturret__data.html#ad45c29971a766e4b1066fc36ee4c85de',1,'turret_data::vehicle()'],['../classVehicleFunction__json.html#a994d8bfaf08a5b5f43c6f477b1e68fe1',1,'VehicleFunction_json::vehicle()'],['../structvehicle__part.html#a15b3929f28a099a00d503643afe549ea',1,'vehicle_part::vehicle()']]],
   ['vehicle_5f_24',['vehicle_',['../classvpart__position.html#a0ccc09ee069ff0402c5760690017135f',1,'vpart_position::vehicle_()'],['../classgeneric__vehicle__part__range.html#a681618103c08412fecd299681a12a2c4',1,'generic_vehicle_part_range::vehicle_()']]],
   ['vehicle_5fdamage_5fmult_25',['VEHICLE_DAMAGE_MULT',['../namespaceExplosionConstants.html#a50c0eb350e87df8eb1ff983f8b2e104e',1,'ExplosionConstants']]],
   ['vehicle_5fdata_26',['vehicle_data',['../structtrap.html#a03491b6455522e29bcbd457283b88c6d',1,'trap']]],
