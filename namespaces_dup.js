@@ -200,6 +200,9 @@ var namespaces_dup =
     [ "anonymous_namespace{material.cpp}", "namespaceanonymous__namespace_02material_8cpp_03.html", [
       [ "material_data", "namespaceanonymous__namespace_02material_8cpp_03.html#a7ca756e3448d6202a95086c3d2fa0005", null ]
     ] ],
+    [ "anonymous_namespace{mattack_actors.cpp}", "namespaceanonymous__namespace_02mattack__actors_8cpp_03.html", [
+      [ "find_target_vehicle", "namespaceanonymous__namespace_02mattack__actors_8cpp_03.html#a767184a049adbbdfe57d29478e2d0fa2", null ]
+    ] ],
     [ "anonymous_namespace{messages.cpp}", "namespaceanonymous__namespace_02messages_8cpp_03.html", "namespaceanonymous__namespace_02messages_8cpp_03" ],
     [ "anonymous_namespace{morale_types.cpp}", "namespaceanonymous__namespace_02morale__types_8cpp_03.html", [
       [ "morale_data", "namespaceanonymous__namespace_02morale__types_8cpp_03.html#ae666ffea986f521e03da256c4d23d161", null ]
