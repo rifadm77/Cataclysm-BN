@@ -1,6 +1,5 @@
 var NAVTREEINDEX145 =
 {
-"structdetail_1_1arg__ref.html#a38e70b569fc47cbb36500e1ac872ff63":[36,0,22,8,3],
 "structdetail_1_1arg__ref.html#a43d587e18ee07a667878c2f9105aa588":[35,0,103,9,1],
 "structdetail_1_1arg__ref.html#a43d587e18ee07a667878c2f9105aa588":[36,0,22,8,1],
 "structdetail_1_1arg__ref.html#ae17481b7c0dd77310ddfc3a21b29444a":[35,0,103,9,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX145 =
 "structdetail_1_1dragonbox_1_1float__info_3_01float_01_4.html#a2ebb41546e416f23455ac459efa8dca0":[36,0,22,0,6,10],
 "structdetail_1_1dragonbox_1_1float__info_3_01float_01_4.html#a40e6e6488d808c565298341f57c2fbe0":[35,0,103,1,6,4],
 "structdetail_1_1dragonbox_1_1float__info_3_01float_01_4.html#a40e6e6488d808c565298341f57c2fbe0":[36,0,22,0,6,4],
-"structdetail_1_1dragonbox_1_1float__info_3_01float_01_4.html#a455c44fe707ef99e9e08068009bb56a9":[35,0,103,1,6,13]
+"structdetail_1_1dragonbox_1_1float__info_3_01float_01_4.html#a455c44fe707ef99e9e08068009bb56a9":[35,0,103,1,6,13],
+"structdetail_1_1dragonbox_1_1float__info_3_01float_01_4.html#a455c44fe707ef99e9e08068009bb56a9":[36,0,22,0,6,13]
 };

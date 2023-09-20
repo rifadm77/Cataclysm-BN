@@ -1,6 +1,5 @@
 var NAVTREEINDEX137 =
 {
-"string__utils_8h.html#a78f0928723504ed91d542c9090cd244d":[37,0,1,639,19],
 "string__utils_8h.html#a801218a57ea2bc3a601afb05046827ab":[37,0,1,639,24],
 "string__utils_8h.html#a813ac4bd0ac2745dfe41d13adf98996f":[37,0,1,639,10],
 "string__utils_8h.html#a836373abd77ef65988abf2bcbff6929a":[37,0,1,639,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX137 =
 "structammo__effect.html#aebb5a07338a39aa4312cf035a148e273":[36,0,71,21],
 "structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html":[36,0,2,0],
 "structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html":[35,0,11,0],
-"structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#a58c78612fc3713ef690224e25653b44c":[36,0,2,0,0]
+"structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#a58c78612fc3713ef690224e25653b44c":[36,0,2,0,0],
+"structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#a58c78612fc3713ef690224e25653b44c":[35,0,11,0,0]
 };

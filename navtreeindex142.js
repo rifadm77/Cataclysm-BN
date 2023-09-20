@@ -1,6 +1,5 @@
 var NAVTREEINDEX142 =
 {
-"structcata__libintl_1_1PlfToken.html#adb6c7c3c5ca49f938e4f18e370f4bfd5":[36,0,16,2,0],
 "structcata__libintl_1_1PlfToken.html#adb6c7c3c5ca49f938e4f18e370f4bfd5":[35,0,83,2,0],
 "structcata__libintl_1_1PlfToken.html#af0243587adcdb03faf6ac68fcab42861":[35,0,83,2,3],
 "structcata__libintl_1_1PlfToken.html#af0243587adcdb03faf6ac68fcab42861":[36,0,16,2,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX142 =
 "structcomponent.html#acf15a6000eb21b8b9b2c13cf0e4453c8":[36,0,164,0],
 "structcomponent.html#af4065b852f934e30cebc54ecf0c1100d":[36,0,164,5],
 "structcomponent.html#af5945b6a4cd14ea24dd4281a1d28fa78":[36,0,164,4],
-"structcomputer__failure.html":[36,0,166]
+"structcomputer__failure.html":[36,0,166],
+"structcomputer__failure.html#a19fec2f03412cdee33d672ffdf31f29a":[36,0,166,4]
 };
