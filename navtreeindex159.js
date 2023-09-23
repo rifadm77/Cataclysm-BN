@@ -1,5 +1,6 @@
 var NAVTREEINDEX159 =
 {
+"structpoint__traits_3_01Point_00_01std_1_1enable__if__t_3_01std_1_1is__same_3_01Point_00_01point528353c3cee28f3149e3be39b58e8b4a.html#a1b520e7ce82f144f90f8e2fad54168ee":[36,0,765,2],
 "structpoint__traits_3_01Point_00_01std_1_1enable__if__t_3_01std_1_1is__same_3_01Point_00_01point528353c3cee28f3149e3be39b58e8b4a.html#a1c2cc5b61f025237cda9bc73f88f0718":[36,0,765,1],
 "structpoint__traits_3_01Point_00_01std_1_1enable__if__t_3_01std_1_1is__same_3_01Point_00_01point528353c3cee28f3149e3be39b58e8b4a.html#a2f74b7e39abdc157b27083977570e91e":[36,0,765,3],
 "structpoint__traits_3_01Point_00_01std_1_1enable__if__t_3_01std_1_1is__same_3_01Point_00_01point528353c3cee28f3149e3be39b58e8b4a.html#a53a24aa28525cd1b96c37650ec0f0d29":[36,0,765,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX159 =
 "structreal__coords.html#a42f118d56c761077b2ea001543b27b57":[36,0,787,2],
 "structreal__coords.html#a47c3cc80457915fff4fc730d7d05707e":[36,0,787,10],
 "structreal__coords.html#a4f4016bc45de0a0d0ac1f0cbe4c924fc":[36,0,787,6],
-"structreal__coords.html#a4f4f90d5295ad48343e2c98372187218":[36,0,787,11],
-"structreal__coords.html#a57901c0966a396c63436b915d01853da":[36,0,787,9]
+"structreal__coords.html#a4f4f90d5295ad48343e2c98372187218":[36,0,787,11]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX138 =
 {
+"structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#a91b8d2b7660363c5fc9342a7f523acfc":[36,0,2,0,2],
 "structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#aa82682028e54af6c2ab46a6b2d34dcb6":[36,0,2,0,1],
 "structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#aa82682028e54af6c2ab46a6b2d34dcb6":[35,0,11,0,1],
 "structanonymous__namespace_02armor__layers_8cpp_03_1_1item__penalties.html#ad7bf0714c37148f78181fd96b3de19c1":[35,0,11,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX138 =
 "structauto__navigation__data.html#af8ac67e4abe1ab01e32138331ef417bf":[36,0,87,23],
 "structavail__tool__comp.html":[36,0,89],
 "structavail__tool__comp.html#a18cc796cf9362c0e525c11428be471b3":[36,0,89,4],
-"structavail__tool__comp.html#a1d141f12c489c6561e686190d1628f32":[36,0,89,1],
-"structavail__tool__comp.html#a27d9af71207d948e4af87026aa1d760b":[36,0,89,2]
+"structavail__tool__comp.html#a1d141f12c489c6561e686190d1628f32":[36,0,89,1]
 };

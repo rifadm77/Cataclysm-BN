@@ -1,5 +1,6 @@
 var NAVTREEINDEX152 =
 {
+"structislot__tool.html#aa0d39d230129ee60303ce8bbe41ba0de":[36,0,467,3],
 "structislot__tool.html#ad319b9b8dede1688bad8bb5ea7881300":[36,0,467,6],
 "structislot__tool.html#ae3e34c1446ddf54ab0008d4e14301d1a":[36,0,467,10],
 "structislot__tool.html#ae59829daffd470f640f94a230927ad3b":[36,0,467,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX152 =
 "structkey__from__json__string_3_01Enum_00_01std_1_1enable__if__t_3_01std_1_1is__enum_3_01Enum_01_4_1_1value_01_4_01_4.html":[36,0,546],
 "structkey__from__json__string_3_01Enum_00_01std_1_1enable__if__t_3_01std_1_1is__enum_3_01Enum_01_4_1_1value_01_4_01_4.html#a9f873e25e08d8b7d606b605e9bd3f4e4":[36,0,546,0],
 "structkey__from__json__string_3_01std_1_1string_00_01void_01_4.html":[36,0,547],
-"structkey__from__json__string_3_01std_1_1string_00_01void_01_4.html#ae648335c2a14674509a4bd466caf9528":[36,0,547,0],
-"structkey__from__json__string_3_01string__id_3_01T_01_4_00_01void_01_4.html":[36,0,548]
+"structkey__from__json__string_3_01std_1_1string_00_01void_01_4.html#ae648335c2a14674509a4bd466caf9528":[36,0,547,0]
 };
