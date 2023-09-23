@@ -1,5 +1,6 @@
 var NAVTREEINDEX112 =
 {
+"mtype_8h.html#afa4c966d04d2ddb261a7cde725eca842a61d95471952d398b490e48271fb8095b":[37,0,1,469,10,86],
 "mtype_8h.html#afa4c966d04d2ddb261a7cde725eca842a663166967254a3fb02f58b78aed83d22":[37,0,1,469,10,111],
 "mtype_8h.html#afa4c966d04d2ddb261a7cde725eca842a674d4fc8b69d5ad8a6a2154d471ba941":[37,0,1,469,10,48],
 "mtype_8h.html#afa4c966d04d2ddb261a7cde725eca842a681973c9b72451246c39ee1577fe6806":[37,0,1,469,10,69],
@@ -248,6 +249,5 @@ var NAVTREEINDEX112 =
 "namespaceExplosionConstants.html#a32f66c60a716590477b2146c3b780d8f":[35,0,114,1],
 "namespaceExplosionConstants.html#a47530022cd90a1eb082dcddf4877636a":[35,0,114,5],
 "namespaceExplosionConstants.html#a50c0eb350e87df8eb1ff983f8b2e104e":[35,0,114,11],
-"namespaceExplosionConstants.html#a66c91c71e8709c45ebf308f4d009a032":[35,0,114,7],
-"namespaceExplosionConstants.html#a832a873f1c16de84289be23662512362":[35,0,114,6]
+"namespaceExplosionConstants.html#a66c91c71e8709c45ebf308f4d009a032":[35,0,114,7]
 };
