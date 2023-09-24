@@ -1296,7 +1296,6 @@ var namespaces_dup =
       [ "shear_animal", "namespacemonexamine.html#af7c79c1c022f82da8a1cedeceb969aeb", null ],
       [ "start_leading", "namespacemonexamine.html#a1c203b2eee53d0bcd927c4271e410c87", null ],
       [ "stop_leading", "namespacemonexamine.html#a663586e54746514203b84f302e5b7faf", null ],
-      [ "swap", "namespacemonexamine.html#af4ee634a5921005409a5f3aa79e4a8a3", null ],
       [ "take_items_from", "namespacemonexamine.html#a2e9ee18138d440c2bcaf2833826c7211", null ],
       [ "tie_pet", "namespacemonexamine.html#ae76b120af015a9112d4ae33380b28164", null ],
       [ "untie_pet", "namespacemonexamine.html#a3500f4f80a6dc864dac50a5af744be0a", null ]
